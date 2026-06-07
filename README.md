@@ -1,7 +1,7 @@
 # GiGa-jav
 一个giga的老片的资源聚合，个人维护
 
-- 
+- [解压密码获取](https://github.com/woderen1/Resource-arrangement/blob/main/CryptographicToolPython%2FREADME.md)
 
 通过百度网盘分享的文件：giga
 链接:https://pan.baidu.com/s/1tZwLvDFiBmmiyDu2u3zALg?pwd=o59v 
