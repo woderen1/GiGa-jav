@@ -7,8 +7,9 @@
 - **可下载网站**：
   1. [javlibrary](javlib.com)  <b>需要科学上网</b>
   2. [javsite](https://javsite.org)   <b>需要科学上网</b>
+  3.[jav-uncen](https://jav-uncen.net/)
 - **免费在线看网站(我没收录的大多数是这个已有的)**：
-  3. [javryo](https://javryo.com/)
+   [javryo](https://javryo.com/)
 
 ## 解决慢速下载问题
 对于 Nitroflare 等国外网盘，下载速度可能极慢（例如，花费 10 小时下载 800MB）。如果你无法使用白马下载、Ponydroid 等工具长时间挂机下载，可以尝试**中转站**方案来加速。
