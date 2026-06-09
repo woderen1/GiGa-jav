@@ -50,10 +50,8 @@ ATHB03
 
 ----
 
-<details markdown='1'><summary>展开/收起</summary>
+<details markdown='1'><summary>展开查看如何共建/收起</summary>
 
-<b>高危</b>
-[TWS25](https://526giga.com/forum.php?mod=viewthread&tid=22639&extra=)
-如果您下载了这条资源可以赞助分享一下
+能提供可靠的信息来源
 
 </details>
